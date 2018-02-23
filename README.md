@@ -1,4 +1,4 @@
-#Master Painter Gallery
+# Master Painter Gallery
 
 For this project, you’re going to be creating a dynamic website that showcases great works of art.  With the backend provided, create a front-end in react that has the following elements:
 - A gallery that displays all the images
